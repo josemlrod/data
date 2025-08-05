@@ -1,0 +1,437 @@
+{
+  "students": [
+    {
+      "student_id": "18865f65-a060-42f8-958e-038891345da7",
+      "first_name": "Student1First",
+      "last_name": "Student1Last"
+    },
+    {
+      "student_id": "a4eeca4a-3d4c-4c80-b79f-e8322c5ffdcb",
+      "first_name": "Student2First",
+      "last_name": "Student2Last"
+    },
+    {
+      "student_id": "6fc2aea4-f01d-4882-a53a-63a413af340e",
+      "first_name": "Student3First",
+      "last_name": "Student3Last"
+    },
+    {
+      "student_id": "32979934-6d1f-4ded-a88b-1a354a20ffe8",
+      "first_name": "Student4First",
+      "last_name": "Student4Last"
+    },
+    {
+      "student_id": "6b49dd36-3efe-4844-ad62-9a07748c409f",
+      "first_name": "Student5First",
+      "last_name": "Student5Last"
+    },
+    {
+      "student_id": "cd8676ff-f50b-4057-9680-11cad044775d",
+      "first_name": "Student6First",
+      "last_name": "Student6Last"
+    },
+    {
+      "student_id": "32927ad6-a425-47b1-b4e0-7cc18c5af4c3",
+      "first_name": "Student7First",
+      "last_name": "Student7Last"
+    },
+    {
+      "student_id": "52cfa9f2-b649-4bf7-a531-3a6796d7b37b",
+      "first_name": "Student8First",
+      "last_name": "Student8Last"
+    },
+    {
+      "student_id": "de0cbacc-4d01-438f-a491-bdf892f2064f",
+      "first_name": "Student9First",
+      "last_name": "Student9Last"
+    },
+    {
+      "student_id": "0c045f60-c5c0-440c-8633-3e2e1394d6d7",
+      "first_name": "Student10First",
+      "last_name": "Student10Last"
+    },
+    {
+      "student_id": "66d5e488-c8aa-4707-84a1-22f884cd3de1",
+      "first_name": "Student11First",
+      "last_name": "Student11Last"
+    },
+    {
+      "student_id": "fbcdf33a-cbeb-46f2-b424-b4a7f2fbb0ed",
+      "first_name": "Student12First",
+      "last_name": "Student12Last"
+    },
+    {
+      "student_id": "5132ee6e-1ee4-4382-b416-41d706dc46d2",
+      "first_name": "Student13First",
+      "last_name": "Student13Last"
+    },
+    {
+      "student_id": "f3fe8508-d945-4c1d-9201-2bbd3c7a4754",
+      "first_name": "Student14First",
+      "last_name": "Student14Last"
+    },
+    {
+      "student_id": "bc826866-4c02-414c-ad29-1f86e1da2f14",
+      "first_name": "Student15First",
+      "last_name": "Student15Last"
+    },
+    {
+      "student_id": "32789ee0-92a2-4e8d-8d0b-b90f878db88f",
+      "first_name": "Student16First",
+      "last_name": "Student16Last"
+    },
+    {
+      "student_id": "637a78cd-8bef-4188-ba43-3534abfa31c6",
+      "first_name": "Student17First",
+      "last_name": "Student17Last"
+    },
+    {
+      "student_id": "6f71c6cd-390b-4750-a44d-3f9bfe646624",
+      "first_name": "Student18First",
+      "last_name": "Student18Last"
+    },
+    {
+      "student_id": "0ed90ba3-bf0d-4598-8e1f-8294c69ea7b3",
+      "first_name": "Student19First",
+      "last_name": "Student19Last"
+    },
+    {
+      "student_id": "46170cf6-50b1-430c-b45a-4589ec56808c",
+      "first_name": "Student20First",
+      "last_name": "Student20Last"
+    }
+  ],
+  "courses": [
+    {
+      "course_id": "9bd8464e-59b8-429c-ac63-a4752a5e4c92",
+      "period_length": 1,
+      "course_name": "Course 1",
+      "course_code": "CODE-001"
+    },
+    {
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "period_length": 1,
+      "course_name": "Course 2",
+      "course_code": "CODE-002"
+    },
+    {
+      "course_id": "3f2a0053-c517-4a28-8e62-14ea4b0e2922",
+      "period_length": 1,
+      "course_name": "Course 3",
+      "course_code": "CODE-003"
+    },
+    {
+      "course_id": "f1ef6d1d-c94e-4544-82e1-4beb6d31582d",
+      "period_length": 1,
+      "course_name": "Course 4",
+      "course_code": "CODE-004"
+    },
+    {
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "period_length": 1,
+      "course_name": "Course 5",
+      "course_code": "CODE-005"
+    },
+    {
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "period_length": 1,
+      "course_name": "Course 6",
+      "course_code": "CODE-006"
+    },
+    {
+      "course_id": "6d9705a4-820d-4496-a237-ca91e1a8b6f6",
+      "period_length": 1,
+      "course_name": "Course 7",
+      "course_code": "CODE-007"
+    },
+    {
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "period_length": 1,
+      "course_name": "Course 8",
+      "course_code": "CODE-008"
+    },
+    {
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "period_length": 2,
+      "course_name": "Extended Course 1",
+      "course_code": "LONG-001"
+    },
+    {
+      "course_id": "32bca892-2f67-46b4-a226-073e6c402a4b",
+      "period_length": 2,
+      "course_name": "Extended Course 2",
+      "course_code": "LONG-002"
+    }
+  ],
+  "periods": [
+    {
+      "period_identifier": "P1",
+      "period_title": "Morning Period"
+    },
+    {
+      "period_identifier": "P2",
+      "period_title": "Midday Period"
+    },
+    {
+      "period_identifier": "P3",
+      "period_title": "Afternoon Period"
+    }
+  ],
+  "course_requests": [
+    {
+      "student_id": "18865f65-a060-42f8-958e-038891345da7",
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "priority": 1
+    },
+    {
+      "student_id": "18865f65-a060-42f8-958e-038891345da7",
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "priority": 2
+    },
+    {
+      "student_id": "a4eeca4a-3d4c-4c80-b79f-e8322c5ffdcb",
+      "course_id": "9bd8464e-59b8-429c-ac63-a4752a5e4c92",
+      "priority": 1
+    },
+    {
+      "student_id": "a4eeca4a-3d4c-4c80-b79f-e8322c5ffdcb",
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "priority": 2
+    },
+    {
+      "student_id": "a4eeca4a-3d4c-4c80-b79f-e8322c5ffdcb",
+      "course_id": "3f2a0053-c517-4a28-8e62-14ea4b0e2922",
+      "priority": 3
+    },
+    {
+      "student_id": "6fc2aea4-f01d-4882-a53a-63a413af340e",
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "priority": 1
+    },
+    {
+      "student_id": "6fc2aea4-f01d-4882-a53a-63a413af340e",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 2
+    },
+    {
+      "student_id": "32979934-6d1f-4ded-a88b-1a354a20ffe8",
+      "course_id": "32bca892-2f67-46b4-a226-073e6c402a4b",
+      "priority": 1
+    },
+    {
+      "student_id": "32979934-6d1f-4ded-a88b-1a354a20ffe8",
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "priority": 2
+    },
+    {
+      "student_id": "6b49dd36-3efe-4844-ad62-9a07748c409f",
+      "course_id": "3f2a0053-c517-4a28-8e62-14ea4b0e2922",
+      "priority": 1
+    },
+    {
+      "student_id": "6b49dd36-3efe-4844-ad62-9a07748c409f",
+      "course_id": "32bca892-2f67-46b4-a226-073e6c402a4b",
+      "priority": 2
+    },
+    {
+      "student_id": "6b49dd36-3efe-4844-ad62-9a07748c409f",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 3
+    },
+    {
+      "student_id": "cd8676ff-f50b-4057-9680-11cad044775d",
+      "course_id": "6d9705a4-820d-4496-a237-ca91e1a8b6f6",
+      "priority": 1
+    },
+    {
+      "student_id": "cd8676ff-f50b-4057-9680-11cad044775d",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 2
+    },
+    {
+      "student_id": "cd8676ff-f50b-4057-9680-11cad044775d",
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "priority": 3
+    },
+    {
+      "student_id": "32927ad6-a425-47b1-b4e0-7cc18c5af4c3",
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "priority": 1
+    },
+    {
+      "student_id": "32927ad6-a425-47b1-b4e0-7cc18c5af4c3",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 2
+    },
+    {
+      "student_id": "32927ad6-a425-47b1-b4e0-7cc18c5af4c3",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 3
+    },
+    {
+      "student_id": "52cfa9f2-b649-4bf7-a531-3a6796d7b37b",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 1
+    },
+    {
+      "student_id": "52cfa9f2-b649-4bf7-a531-3a6796d7b37b",
+      "course_id": "6d9705a4-820d-4496-a237-ca91e1a8b6f6",
+      "priority": 2
+    },
+    {
+      "student_id": "de0cbacc-4d01-438f-a491-bdf892f2064f",
+      "course_id": "9bd8464e-59b8-429c-ac63-a4752a5e4c92",
+      "priority": 1
+    },
+    {
+      "student_id": "de0cbacc-4d01-438f-a491-bdf892f2064f",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 2
+    },
+    {
+      "student_id": "de0cbacc-4d01-438f-a491-bdf892f2064f",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 3
+    },
+    {
+      "student_id": "0c045f60-c5c0-440c-8633-3e2e1394d6d7",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 1
+    },
+    {
+      "student_id": "0c045f60-c5c0-440c-8633-3e2e1394d6d7",
+      "course_id": "ada5d5eb-8944-40f6-a98e-75084d36dfe4",
+      "priority": 2
+    },
+    {
+      "student_id": "66d5e488-c8aa-4707-84a1-22f884cd3de1",
+      "course_id": "9bd8464e-59b8-429c-ac63-a4752a5e4c92",
+      "priority": 1
+    },
+    {
+      "student_id": "66d5e488-c8aa-4707-84a1-22f884cd3de1",
+      "course_id": "f1ef6d1d-c94e-4544-82e1-4beb6d31582d",
+      "priority": 2
+    },
+    {
+      "student_id": "66d5e488-c8aa-4707-84a1-22f884cd3de1",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 3
+    },
+    {
+      "student_id": "fbcdf33a-cbeb-46f2-b424-b4a7f2fbb0ed",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 1
+    },
+    {
+      "student_id": "fbcdf33a-cbeb-46f2-b424-b4a7f2fbb0ed",
+      "course_id": "32bca892-2f67-46b4-a226-073e6c402a4b",
+      "priority": 2
+    },
+    {
+      "student_id": "5132ee6e-1ee4-4382-b416-41d706dc46d2",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 1
+    },
+    {
+      "student_id": "5132ee6e-1ee4-4382-b416-41d706dc46d2",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 2
+    },
+    {
+      "student_id": "f3fe8508-d945-4c1d-9201-2bbd3c7a4754",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 1
+    },
+    {
+      "student_id": "f3fe8508-d945-4c1d-9201-2bbd3c7a4754",
+      "course_id": "f1ef6d1d-c94e-4544-82e1-4beb6d31582d",
+      "priority": 2
+    },
+    {
+      "student_id": "f3fe8508-d945-4c1d-9201-2bbd3c7a4754",
+      "course_id": "32bca892-2f67-46b4-a226-073e6c402a4b",
+      "priority": 3
+    },
+    {
+      "student_id": "bc826866-4c02-414c-ad29-1f86e1da2f14",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 1
+    },
+    {
+      "student_id": "bc826866-4c02-414c-ad29-1f86e1da2f14",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 2
+    },
+    {
+      "student_id": "bc826866-4c02-414c-ad29-1f86e1da2f14",
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "priority": 3
+    },
+    {
+      "student_id": "32789ee0-92a2-4e8d-8d0b-b90f878db88f",
+      "course_id": "3f2a0053-c517-4a28-8e62-14ea4b0e2922",
+      "priority": 1
+    },
+    {
+      "student_id": "32789ee0-92a2-4e8d-8d0b-b90f878db88f",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 2
+    },
+    {
+      "student_id": "32789ee0-92a2-4e8d-8d0b-b90f878db88f",
+      "course_id": "6d9705a4-820d-4496-a237-ca91e1a8b6f6",
+      "priority": 3
+    },
+    {
+      "student_id": "637a78cd-8bef-4188-ba43-3534abfa31c6",
+      "course_id": "9bd8464e-59b8-429c-ac63-a4752a5e4c92",
+      "priority": 1
+    },
+    {
+      "student_id": "637a78cd-8bef-4188-ba43-3534abfa31c6",
+      "course_id": "f12759bd-9319-40cc-b86f-d06b26e02189",
+      "priority": 2
+    },
+    {
+      "student_id": "637a78cd-8bef-4188-ba43-3534abfa31c6",
+      "course_id": "f1ef6d1d-c94e-4544-82e1-4beb6d31582d",
+      "priority": 3
+    },
+    {
+      "student_id": "6f71c6cd-390b-4750-a44d-3f9bfe646624",
+      "course_id": "6d9705a4-820d-4496-a237-ca91e1a8b6f6",
+      "priority": 1
+    },
+    {
+      "student_id": "6f71c6cd-390b-4750-a44d-3f9bfe646624",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 2
+    },
+    {
+      "student_id": "0ed90ba3-bf0d-4598-8e1f-8294c69ea7b3",
+      "course_id": "9717c85a-16d1-40e3-8bf2-705b9ca94e09",
+      "priority": 1
+    },
+    {
+      "student_id": "0ed90ba3-bf0d-4598-8e1f-8294c69ea7b3",
+      "course_id": "f1ef6d1d-c94e-4544-82e1-4beb6d31582d",
+      "priority": 2
+    },
+    {
+      "student_id": "46170cf6-50b1-430c-b45a-4589ec56808c",
+      "course_id": "f7c8e26a-7228-4883-94bf-6cae3f791748",
+      "priority": 1
+    },
+    {
+      "student_id": "46170cf6-50b1-430c-b45a-4589ec56808c",
+      "course_id": "e9d15712-eab2-4954-bc11-c258f9f18f87",
+      "priority": 2
+    },
+    {
+      "student_id": "46170cf6-50b1-430c-b45a-4589ec56808c",
+      "course_id": "3f2a0053-c517-4a28-8e62-14ea4b0e2922",
+      "priority": 3
+    }
+  ]
+}
